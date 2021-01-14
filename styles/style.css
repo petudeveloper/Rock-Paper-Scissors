@@ -1,0 +1,51 @@
+html{
+  font-size: 20px;  
+  font-family: 'JetBrains Mono', monospace;
+  }
+body {
+    margin: 0 auto;
+    background-color: #FF9500;
+    padding: 0 20px 20px 20px;
+    text-align: center;    
+  }
+h1{  
+    margin: 0;
+    padding: 20px 0;
+    text-shadow: 3px 3px 1px rgb(23, 5, 102);     
+    font-size: 40px; 
+    color:crimson;
+  }
+h2{  
+    font-size: 35px;
+}
+section{
+    margin: 0;
+    padding: 20px 0;
+    text-shadow: 3px 3px 1px rgb(154, 142, 209);     
+    font-size: 40px; 
+    color:rgb(17, 23, 73);
+    font-size:xx-large;
+}
+img {
+    max-width:50%;
+  }
+
+ul{
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+
+#Seleccion-Imagen{
+  justify-content: center;
+  border:solid;
+  border-color: black;
+  font-size: x-large;
+  padding: 0;
+}
+
+#Resultados{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
