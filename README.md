@@ -2,7 +2,7 @@
 
 In this project, I make a simple implementation of grade-school classic “rock paper scissors”
 
-![screenshot](imgs/project-screenshot.png)
+![screenshot](https://github.com/petumazo/Rock-Paper-Scissors/blob/main/images/project-screenshot.png)
 
 ## Built With
 
